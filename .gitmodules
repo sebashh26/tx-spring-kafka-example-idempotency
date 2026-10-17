@@ -1,0 +1,6 @@
+[submodule "tx-spring-kafka-producer"]
+	path = tx-spring-kafka-producer
+	url = https://github.com/sebashh26/tx-spring-kafka-producer
+[submodule "tx-spring-kafka-consumer"]
+	path = tx-spring-kafka-consumer
+	url = https://github.com/sebashh26/tx-spring-kafka-consumer
